@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; line-height:50px ;font-size:20px ;color:#9A9A9A ;  }
+
+.topo {background: url("../imagens/Barra topo.gif");width:940px;height:150px;border-bottom:10px solid #090;margin: auto; }
+
+.logo {float:left;background:url("../imagens/Logo.jpg");width:140px;height:100px;position: relative;margin: 40px 0 0 15px;}
+
+
+
+#topo .menu ul { position:relative; float:right; margin:-40px 25px 0 100px; }
+
+.topo .menu ul li {display:inline; padding: 10px 0 0 60px; float:none;}
+
+#topo .menu ul li a { color:aqua; text-decoration:none; }
+
+.topo .menu ul li .active { color:aquamarine; font-weight: bold; }
+
+
+/* Inicio da Página Inicial */
+
+#fundo_inical {width: 940px;height: 872px;margin: 10px auto 20px auto;background-color: #F8F8F8;}
+
+.box_img1 {background: url("../imagens/Imagen pagina inicial.jpg");width: 450px;height: 300px;float:relative;margin: 15px;}
+
+.box_txt1 {width: 420px;height: 300px;float: left;position: relative;margin: 15px;}
+
+.box_txt1 h1 {font-size: 30px;color: aquamarine;font-weight: bold;font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+
+.box_txt1 p {text-align:justify;}
+
+.regua {width:900px; margin:auto;border:1px solid #CCC;clear:both}
+
+.cabe {width: 940px;height: 150px; margin: 10px auto; clear: both; background: url("../imagens/Meio pagina.jpg")}
+
+.rodape {width: 940px;height: 150px ;margin:0px auto  ;clear:both ;background: url("../imagens/Barra roda pe.png")   }
+
+/* Fim da Página inicial*/
+
+/*Inicio da Página Nossos Trabalhos*/
+
+#fundo_nossos {width:940px;
+	height:470px;
+	margin:10px auto 20px auto;
+	background:#FFF;}
+
+.box_txt3 {width: 640px;
+	height: 150px;
+	float: left;
+	position: relative;
+	margin: 15px ;}
+
+.box_txt3 h1 {font-size: 30px;color: aquamarine;font-weight: bold;font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+
+.box_txt3 p {text-align:justify;}
+
+.box_txt4 {width: 900px;
+	height: 150px;
+	float: left;
+	position: relative;
+	margin: 15px ;}
+
+#fale_conosco {width:940px;
+	height:470px;
+	margin:10px auto 20px auto;
+	background:#FFF;}
+/*Fim da Página Nossos Trabalhos*/
+
+
+/*Inicio da Página Fale Conosco*/
+
+#fundo_fale {width:940px;
+	height:470px;
+	margin:10px auto 20px auto;
+	background:#FFF;}
+
+.box_txt5 {width: 640px;
+	height: 150px;
+	float: left;
+	position: relative;
+	margin: 15px ;}
+.box_txt5 h1 {font-size: 30px;color: aquamarine;font-weight: bold;font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}

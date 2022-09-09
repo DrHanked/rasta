@@ -41,11 +41,11 @@ body {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 /*Inicio da Página Nossos Trabalhos*/
 
 #fundo_nossos {width:940px;
-	height:470px;
+	height:800px;
 	margin:10px auto 20px auto;
 	background:#FFF;}
 
-.box_txt3 {width: 640px;
+.box_txt3 {width: 750px;
 	height: 150px;
 	float: left;
 	position: relative;
